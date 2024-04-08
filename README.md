@@ -14,9 +14,9 @@
 >
 > Find out more about CarbonHack 2024 on the [CarbonHack website](https://grnsft.org/hack/github). Check out the [FAQ on GitHub](https://grnsft.org/hack/faq).
 > 
-> Registration opens 15th January!
+> **Attend the the [Closing & Award Ceremony Livestream](https://github.com/Green-Software-Foundation/carbonhack-event/issues/349) on April 18th!**
 >
-> **PLEASE NOTE** hackathon projects are not supposed to be raised as pull requests to this rpeository! Please keep your hackathon plugins in your own repositories and submit links instead of raising PRs!
+> **PLEASE NOTE** hackathon projects are not supposed to be raised as pull requests to this repository! Please keep your hackathon plugins in your own repositories and submit links instead of raising PRs!
 ----------------------------
 
 
