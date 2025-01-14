@@ -1,0 +1,21 @@
+name: energy-consumption-calculater demo
+description: a manifest demonstrating how to use the energy-consumption-calculater feature
+tags:
+initialize:
+  plugins:
+    calculateEnergyConsumption:
+      method: CalculateEnergyConsumption
+      path: 'builtin'
+      config:
+        input-parameter: 'wattage'
+        output-parameter: 'energy-consumption'
+tree:
+  children:
+    child:
+      pipeline:
+        compute:
+          - calculateEnergyConsumption
+      inputs:
+        - timestamp: 2023-08-06T00:00
+          duration: 3600
+          wattage: 100
